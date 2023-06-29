@@ -1,0 +1,7 @@
+telegram:
+  bot_token: 6031689793:AAH1QUatrJGn_g1anjLl2lLT8nPjNkDmwX4
+  user_ids: 
+claude:
+  api: m87UlQ4NDefo_CAwj-9kCQ%3D%3D # leave it blank if you don't want to use claude
+bard:
+  api: XQhF5_DT2aLBsn9ezvV6EtEo8tzz0vqZLWK6CRpvcJUGXc3rlPh2HVYFerCUqf8BlMoHMw. # leave it blank if you don't want to use bard
